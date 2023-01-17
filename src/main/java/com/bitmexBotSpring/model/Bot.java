@@ -9,5 +9,4 @@ public class Bot {
     private double step;
     private int level;
     private double coef;
-
 }
