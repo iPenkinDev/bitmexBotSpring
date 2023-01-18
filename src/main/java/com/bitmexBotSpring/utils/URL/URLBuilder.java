@@ -1,14 +1,10 @@
 package com.bitmexBotSpring.utils.URL;
 
-import lombok.Data;
-import lombok.experimental.UtilityClass;
-
-@UtilityClass
 public class URLBuilder {
     private URL url = new URL();
 
     public URLBuilder protocol(String protocol){
-        url.setProtocol(protocol);
+       url.setProtocol(protocol);
         return this;
     }
     public URLBuilder baseUrl(String baseUrl){
