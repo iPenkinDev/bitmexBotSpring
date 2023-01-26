@@ -1,4 +1,4 @@
-package com.bitmexBotSpring.utils.URL;
+package com.bitmexBotSpring.config.URL;
 
 public class URLBuilder {
     private URL url = new URL();

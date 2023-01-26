@@ -1,4 +1,4 @@
-package com.bitmexBotSpring.utils.Enum;
+package com.bitmexBotSpring.config.Enum;
 
 public enum OrderType {
     Market,

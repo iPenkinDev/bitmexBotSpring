@@ -1,10 +1,7 @@
-package com.bitmexBotSpring.utils.URL;
+package com.bitmexBotSpring.config.URL;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
-import lombok.experimental.UtilityClass;
 
 
 public class URL {
